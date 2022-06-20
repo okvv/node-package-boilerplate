@@ -13,7 +13,7 @@ cd node-package-boilerplate
 npm i  # or yarn - work with volta, added a config to package.json :)
 ```
 ```bash
-rm -rf .git && git init #Optional - for new project
+rm -rf .git && git init # Optional - for new project
 ```
 
 Alternatively you can create using the "Use this template" button on GitHub. 
